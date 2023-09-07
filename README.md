@@ -8,6 +8,7 @@ Installation has been streamlined to a `.BAT` file. In the event that the batch 
 
 ### Simple install
 ![Image of Install.bat](https://github.com/JMT-bmoyle/LevelsToXlsx/blob/main/Images/Install.png?raw=true)
+
 In the directory `Q:\AZURE_HVMD\00-Reality_Capture\Sandbox\bmoyle\LevelsToXlsx` double click on `Install.bat`. This will install [Python3.10](https://www.python.org/downloads/release/python-3107/), Upgrade [PIP](https://pypi.org/project/pip/), and install the required modules [openpyxl](https://pypi.org/project/openpyxl/) and [tqdm](https://pypi.org/project/tqdm/).
 
 ### Manual install
